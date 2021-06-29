@@ -10,7 +10,7 @@
 	<table border="1" style="width: 100%">
 		<tr>
 			<th style="background-color: lightgrey; color: blue; height: 30px"><a
-				href="./searchPage">Serch Product</a></th>
+				href="./searchPage">Search Product</a></th>
 			<th style="background-color: lightgrey; color: blue; height: 30px"><a
 				href="./getAll">See all Products</a></th>
 			<th style="background-color: lightgrey; color: blue; height: 30px"><a
